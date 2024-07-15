@@ -5,7 +5,6 @@
     - Admin
     - Student
     - Quit (to end program)
-![Screenshot]("C:\Users\fatim\OneDrive\Pictures\Screenshots\Screenshot (46).png")
 
 
 ## Admin Options 👨🏻‍💻
@@ -30,6 +29,5 @@
     - time table for there whole week
     - calculate there CGPA according to GPA they got each semseter
 
-## Collaborator:
- - 
+
 
