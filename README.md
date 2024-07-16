@@ -8,14 +8,16 @@
 
 
 ## Admin Options 👨🏻‍💻
+![alt text](image.png)
 - The admin will be given further by 3 options:
-    - Enter students record
+    - Enter students record (i.e student name, ID, father's name, phone number, programme and section)
     - Delete students record
     - Quit (to go back to Main Menu)
 
 ## Student option 🎓
+![alt text](image-1.png)
 - The student will enter his/her name and roll number. The student will be given by:
-    - Profile 
+    - Profile (will display all information of student from name to section)
     - Fee
     - Timetable
     - CGPA Calculator 
