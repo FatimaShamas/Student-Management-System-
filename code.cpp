@@ -20,7 +20,7 @@ StudentRecord arr[200];
 
 //Global Variables
 int total = 0;
-string Path = "time_table.txt";
+string Path = "C:\\Users\\Fatima\\Desktop\\gitdemo\\Student-Management-System\\time_table.txt";
 
 //Function Prototypes
 void profile();
