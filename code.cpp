@@ -20,7 +20,7 @@ StudentRecord arr[200];
 
 //Global Variables
 int total = 0;
-string Path = "C:\\Users\\Fatima\\Desktop\\gitdemo\\Student-Management-System\\time_table.txt";
+string Path = "time_table.txt";
 
 //Function Prototypes
 void profile();
@@ -457,12 +457,12 @@ void fee()
 void time_table()
 {
 	ifstream file_TT;
-	char txt;
+	string line;
 	file_TT.open(Path); 
-	while (!file_TT.eof())
+	while (getline(file_TT,line))
 	{
-		txt = file_TT.get();
-		cout << txt;
+		
+		cout << line << endl;
 	}
 	file_TT.close();
 }
